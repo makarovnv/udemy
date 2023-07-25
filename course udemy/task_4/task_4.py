@@ -16,3 +16,16 @@ print('\t\tBaa, baa, black sheep,\n\t\tHave you any wool?' + """
 \t\tHave you any wool?
 \t\tYes sir, yes sir,
 \t\tThree bags full""")
+
+
+text = 'Hello Python!'
+print(text[3])
+
+print('Hello Python!'[3])
+
+text = 'Hello Python!'
+print(text[0:2])
+print('Hello Python!'[0:2])
+
+text = 'Hello Python!'
+print(text[6] + 'a' + text[8:10])
