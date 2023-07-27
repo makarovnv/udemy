@@ -7,3 +7,6 @@ print(z)
 
 z = 'z' * 7
 print(z.upper())
+
+z = 'Z' * 7
+print(z.lower())
