@@ -12,3 +12,4 @@ post_about_cats.number_of_likes = 1000
 
 print(post_about_politicians.number_of_likes)
 print(post_about_cats.number_of_likes)
+
